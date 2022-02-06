@@ -14,6 +14,7 @@ As a new data scientist for PyBer, a Python-based ride-sharing app, I have been 
 Rural, suburban, and urban city types were compared over the following categories: Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver. The results of this analysis can be seen below:
 
 **Summary of Fare Differences by City Type**
+
 ![PyBer Summary](https://github.com/baileyvo/PyBer_Analysis/blob/main/Analysis/PyBer_Summary.PNG)
 
 ### PyBer Summary by City Type
